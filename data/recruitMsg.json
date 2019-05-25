@@ -1,0 +1,437 @@
+[
+{
+    "_id" : "00175ea0b78c704c426fe2d2d355b88d536fc8f7660976734c04ffad140aac5e",
+    "companyAddress" : "厦门",
+    "companyAddressStandard" : {
+        "province" : "福建省",
+        "city" : "厦门市",
+        "region" : "思明区"
+    },
+    "companyMessage" : "建霖集团始创于1978年，从发轫于台湾到扎根在大陆，从卫浴崛起到立足健康家居，从传统制造到升级转型，建霖集团一直秉持“团队精实、稳健发展、顾客满意、永续经营”的核心价值观，营业额以近年年均20%的速度持续增长，已连续多年荣登厦门百强企业榜单。历经四十年稳健发展，如今已形成厦门、宁波、漳州、台湾四大产业基地，旗下拥有五大事业体及十家全资子公司，涵盖厨卫设施、净水系统、新风空净、健康照护等四大主线家居产品，业务深耕北美、布局全球，与众多国际知名品牌商建立长期战略合作关系，已成为一家集制造、服务、设计、创客空间等多种商业模式为一体的多元化集团公司。",
+    "companyName" : "厦门建霖健康家居股份有限公司",
+    "companySize" : "NULL",
+    "companyType" : "NULL",
+    "duplicatekey" : "00175ea0b78c704c426fe2d2d355b88d536fc8f7660976734c04ffad140aac5e",
+    "educationMessage" : "大专及以上",
+    "educationMessageStandard" : "专科及以上",
+    "fringeBenefits" : "五险一金 年底双薪 绩效奖金 午餐补助 通讯津贴 带薪年假 弹性工作",
+    "industryItem" : "{'firstItem': '广告/媒体', 'secondItem': '艺术/设计', 'thirdItem':'工业/产品设计'}",
+    "industrySplit" : "NULL",
+    "industryStandard" : {
+        "level1" : "其他",
+        "level2" : "其他"
+    },
+    "positionMessage" : "职责描述：\n产品创新设计\n\n任职要求：\n1.3年以上厨房龙头、花洒、热水器、干手器、咖啡机等类似产品设计经验；\n2.熟悉熟料材料性能、模具结构及注塑成型过程；\n3.熟悉卫浴方面欧美标准和国家表准，如熟悉UL、3C等安规标准更好；\n4.熟练运用PRO/E、CAD等相似软件;\n5.做事积极主动、乐于钻研、有良好的抗压能力、有责任心和时间观念.",
+    "positionName" : "结构设计工程师",
+    "publishedDate" : "2018年06月05日",
+    "salaryPrice" : "6-10万",
+    "salaryPriceStandard" : {
+        "high" : 8333.33333333333,
+        "avg" : 6666.66666666667,
+        "low" : 5000.0
+    },
+    "source" : "猎聘网",
+    "workAddress" : "厦门",
+    "workAddressStandard" : {
+        "province" : "福建省",
+        "city" : "厦门市",
+        "cityTier" : "三线城市",
+        "region" : "思明区"
+    },
+    "workBackground" : "3年以上",
+    "workBackgroundStandard" : "经验不限",
+    "workType" : "NULL",
+    "workTypeStandard" : "全职"
+}
+,
+{
+    "_id" : "000d30bc718fea419c33dec73e27fc98859f7227c0b6a487506e85fcdabbd0f4",
+    "companyAddress" : "杭州市钱江国际时代广场2号楼401",
+    "companyAddressStandard" : {
+        "province" : "浙江省",
+        "city" : "杭州市",
+        "region" : "江干区"
+    },
+    "companyMessage" : "上海钢银电子商务股份有限公司于2008年正式注册成立，总部设在中国上海，历时5年的精耕细作，在积累了大量的实操经验和人才储备后，其交易平台在2013年5月末开始试运行，同年11月正式改版上线。作为上海钢联电子商务股份有限公司下属的一个钢材现货电子商务平台，该项目在创立伊始就已获得来自国内知名天使投资机构和投资人的青睐。\n钢银交易平台实行钢材超市、钢材集市等在线交易模式，开发委托采购、委托销售业务，形成规模化、立体化、多样化的服务体系。平台以在线交易为核心的同时，整合第三方支付结算平台、仓储物流平台和在线金融服务平台，呈现出一个多方共赢的“完美闭环”，加速在线交易、金融服务、仓储物流和数据转换的效率，降低交易成本，提高平台服务质量，以往钢铁电商的各项壁垒被逐一击破，让广大客户共享利益。\n公司以\"开拓创新，互助共赢，努力成为钢铁用户的“好帮手\"为使命，致力于打造钢铁流通行业“阳光生态圈”，让钢铁交易更高效，更阳光，与产业用户最终实现合作共赢。",
+    "companyName" : "钢银电子商务",
+    "companySize" : "NULL",
+    "companyType" : "NULL",
+    "duplicatekey" : "000d30bc718fea419c33dec73e27fc98859f7227c0b6a487506e85fcdabbd0f4",
+    "educationMessage" : "大专及以上",
+    "educationMessageStandard" : "专科及以上",
+    "fringeBenefits" : "领导好 技能培训 岗位晋升 发展空间大",
+    "industryItem" : "NULL",
+    "industrySplit" : "NULL",
+    "positionMessage" : "岗位职责：\n1、针对高端客户群体，通过电话和面谈的方式，挖掘大宗商品大数据需求，引导其加入VIP会员服务，并制订与之匹配的企业方案；\n2、完成公司下达的月度销售任务及其它考核指标；\n3、积极主动搜集及拓展各类与业务相关的客户资源；\n4、与研究中心、数据中心团队密切配合，达成客户服务目标；\n5、维护良好的客户关系，确保较高的客户满意度；\n6、关注项目进度，参与商务谈判，促成合同签署；\n7、上级主管交办的其它工作。\n任职要求：\n1、大专及以上学历，有一定的英语读写能力，性格坚韧，具备良好的应变能力和承压能力；\n2、仪表端庄，有涵养；性格开朗大方；思维敏捷；语言表达流畅，沟通协调能力较强；\n3、有独立开发客户的能力，精通销售技巧，可把握客户心理，有开拓精神，富有韧性；\n4、具备基本商务洽谈技巧和商务礼仪水平；\n5、具备较强的学习能力和优秀的沟通能力；\n6、有敏锐的市场洞察力；\n7、具有团队意识和服务意识\n福利待遇：\n1、带薪培训：系统化培训体系，新员工带薪培训；\n2、社会保险：按照规定五险一金\n3、各类补贴：享受员工的车贴、饭贴及工龄津贴；\n4、生日祝福：员工生日的礼物及祝福活动；\n5、带薪年假：按照劳动法实行带薪年休假制度；\n6、健康体检：每年享受年度员工体检；\n7、拓展旅游：优秀员工拓展活动及旅游奖励。",
+    "positionName" : "大客户销售顾问",
+    "publishedDate" : "NULL",
+    "salaryPrice" : "6-12万",
+    "salaryPriceStandard" : {
+        "high" : 10000.0,
+        "avg" : 7500.0,
+        "low" : 5000.0
+    },
+    "source" : "猎聘网",
+    "workAddress" : "杭州",
+    "workAddressStandard" : {
+        "province" : "浙江省",
+        "city" : "杭州市",
+        "cityTier" : "三线城市",
+        "region" : "江干区"
+    },
+    "workBackground" : "经验不限",
+    "workBackgroundStandard" : "经验不限",
+    "workType" : "NULL",
+    "workTypeStandard" : "全职"
+}
+
+,
+{
+    "_id" : "002b41dea7df7a62cceca8a3d7ae7db9bf4bdef6cd436e4566653c145be2229e",
+    "companyAddress" : "NULL",
+    "companyAddressStandard" : {
+        "province" : "江苏省",
+        "city" : "苏州市",
+        "region" : "姑苏区"
+    },
+    "companyMessage" : "鑫控集团由鑫控集团有限公司、苏州鑫联嘉置业有限公司、鑫控投资发展（上海）有限公司、中科龙轩工程项目管理海安有限公司、苏州鑫控汽车租赁有限公司、苏州鑫元建贸易有限公司组建而成，鑫控集团有限公司为母公司。集团前身中科鑫控投资发展(苏州)有限公司是中科建设开发总公司下属控股子公司，本着“诚信、务实、创新、共赢”的企业精神，凭借“以人为本、诚信公开、求实创新、追求卓越”的企业文化和品牌理念，鑫控自成立以来便迅速成长发展，取得了业界瞩目的成绩。目前经营范围涉及房地产开发经营、工程项目管理、物业管理、实业投资、汽车租赁等诸多领域，操作项目分布江浙沪多个地区。 在新的发展机遇下，全体鑫控人将同心同德、锐意进取、勇于创新，团结实干，不断迎接挑战，实现跨越式发展。立足苏州，辐射全国，放眼世界，建百年企业，树世纪品牌。 中科鑫控投资发展(苏州)有限公司将走现代国际化企业发展之道，立足苏州，辐射全国，放眼世界，建百年企业，树世纪品牌。在新的历史时期，全体中科人同心同德、锐意进取、勇于创新，团结实干，不断迎接挑战，实现跨越式发展。",
+    "companyName" : "鑫控集团有限公司",
+    "companySize" : "NULL",
+    "companyType" : "NULL",
+    "duplicatekey" : "002b41dea7df7a62cceca8a3d7ae7db9bf4bdef6cd436e4566653c145be2229e",
+    "educationMessage" : "硕士",
+    "educationMessageStandard" : "硕士及以上",
+    "fringeBenefits" : "NULL",
+    "industryItem" : "{\"secondItem\":\"多元化业务集团公司\",\"firstItem\":\"政府/非营利组织/其他\",\"thirdItem\":\"\"}",
+    "industrySplit" : "NULL",
+    "industryStandard" : {
+        "level1" : "其他",
+        "level2" : "其他"
+    },
+    "positionMessage" : "种植研发主管（工作地点： 苏州） 岗位职责： 1. 建立农业种植品种资料库及种植方案技术库 2. 开发建立引种渠道，并进行维护管理 3. 负责引进品种的试验示范，并进行技术手册的制定、技术方案的推广及全周期生产费用的预测 4. 负责引进品种及现有品种的种植技术的支持 5. 负责种植、采收标准的建立及执行监控 任职要求： 1. 研究生（含）以上学历，园艺、农学等相关专业； 2. 熟悉国内外农业种植领域的品类、品种及业态分布情况；了解不同品种的相关特性及种植技术要领； 3. 较强的品种资源开发及整合能力； 4. 具备综合能力，能够制定引进品种的全周期生长种植方案，及生产全周期费用预测，并为加工包装提供建议支持； 5. 有种子公司或研究所工作相关经历或相关渠道的优先； 畜牧研发主管（工作地点： 贵州、苏州） 岗位职责： 1. 建立畜牧养殖品种资料库及养殖方案技术库 2. 开发建立引种渠道，并进行维护管理 3. 负责引进品种的试验示范，并进行技术手册的制定、技术方案的推广及全周期生产费用的预测 4. 负责引进品种及现有品种的养殖技术的支持 5. 负责养殖、加工、包装、标准的建立及执行监控 任职要求： 1. 研究生（含）以上学历，动科、动医等相关专业； 2. 熟悉国内外农业养殖领域的品类、品种及业态分布情况；了解不同品种的相关特性及养植技术要领； 3. 较强的品种资源开发及整合能力； 4. 具备综合能力，能够制定引进品种的全周期养殖方案，及养殖全周期费用预测，并为加工包装提供建议支持； 5. 有畜牧品种公司或研究所工作相关经历或相关渠道的优先 职能类别： 农艺师 养殖部主管 关键字： 种植 畜牧 实验 微信分享",
+    "positionName" : "种植/畜牧研发主管（农业管理中心）",
+    "publishedDate" : "07-31",
+    "publishedDateStandard" : "07-31",
+    "salaryPrice" : "0.9-1.8万/月",
+    "salaryPriceStandard" : {
+        "high" : 18000.0,
+        "avg" : 13500.0,
+        "low" : 9000.0
+    },
+    "source" : "前程无忧",
+    "workAddress" : "苏州/吴中区",
+    "workAddressStandard" : {
+        "province" : "江苏省",
+        "city" : "苏州市",
+        "cityTier" : "三线城市",
+        "region" : "姑苏区"
+    },
+    "workBackground" : "2年",
+    "workBackgroundStandard" : "经验不限",
+    "workType" : "NULL",
+    "workTypeStandard" : "全职"
+}
+,
+{
+    "_id" : "001e482af8614026487d3e7bc5f731edeb188cf360b3d96c5b510524c6123a90",
+    "companyAddress" : "NULL",
+    "companyAddressStandard" : {
+        "province" : "广东省",
+        "city" : "深圳市",
+        "region" : "福田区"
+    },
+    "companyMessage" : "该信息通过58招才猫app发布。老板忙得连写简介的时间都没有~正在招人，赶快来应聘吧~",
+    "companyName" : "深圳市幸福汇餐饮管理策划有限…",
+    "companySize" : "NULL",
+    "companyType" : "NULL",
+    "duplicatekey" : "001e482af8614026487d3e7bc5f731edeb188cf360b3d96c5b510524c6123a90",
+    "educationMessage" : "不限",
+    "educationMessageStandard" : "不限",
+    "fringeBenefits" : "包吃 包住 加班补助",
+    "industryItem" : "NULL",
+    "industrySplit" : "服务员",
+    "positionMessage" : "岗位职责： 1、按照领班安排认真做好桌椅、餐厅卫生，餐厅铺台，准备好各种用品，确保正常营业使用。 2、接待顾客应主动、热情、礼貌、耐心、周到，使顾客有宾至如归之感； 3、运用礼貌语言，为客人提供最佳服务， 4、善于向顾客介绍和推销本餐厅饮品及特色菜点； 5、配合领班工作，服从领班或以上领导指挥，团结及善于帮助同事工作； 6、积极参加培训，不断提高服务技能。 任职资格： 1、年龄16-24岁，身体健康，能吃苦， 2、品行端正，能吃苦耐劳，初中以上文化程度，有理性求晋升，愿和平台一起发展",
+    "positionName" : "湘菜餐厅诚招有理想求晋升的服…",
+    "publishedDate" : "NULL",
+    "salaryPrice" : "2800-3500元/月",
+    "salaryPriceStandard" : {
+        "high" : 3500.0,
+        "avg" : 3150.0,
+        "low" : 2800.0
+    },
+    "source" : "58同城招聘",
+    "workAddress" : "深圳",
+    "workAddressStandard" : {
+        "province" : "广东省",
+        "city" : "深圳市",
+        "cityTier" : "三线城市",
+        "region" : "福田区"
+    },
+    "workBackground" : "1-2年",
+    "workBackgroundStandard" : "经验1至3年",
+    "workType" : "NULL",
+    "workTypeStandard" : "全职"
+}
+
+,
+{
+    "_id" : "00051163c80db00469ba6d18691aeed0466332e458ef22055d67f15b5f0b9762",
+    "companyAddress" : "NULL",
+    "companyAddressStandard" : {
+        "province" : "广东省",
+        "city" : "揭阳市",
+        "region" : "榕城区"
+    },
+    "companyMessage" : "福建柏悦品牌运营管理有限公司注册资本1亿5千万，主要运营管理衣全球（1#WORD）系列女装。衣全球设计快时尚生态平台隶属于中国首家以“以创意设计和服务”的上市公司：广东柏堡龙股份有限公司（股票代码：002776），作为中国首家A股以“以创意设计和服务”上市公司将投资10亿元建设“衣全球”时尚生态圈。 公司地点：福州台江区曙光大厦16号恒丰大厦23楼 联系人：苏小姐 全国门店连锁地址: 武汉市硚口区古田二路凯德西城一楼衣全球 合肥庐阳长江中路98号合肥银泰中心 普宁市流沙北街道环市北路普宁广场时代中心 湖南省长沙市雨花区沙湾路长沙保利广场 湖南省衡阳市蒸湘区华新街道解放大道42号连卡福商业广场 广西南宁市民主路20号南宁百货文化宫店 江西省南昌市西湖区朝阳万达1#WOR店1078 优先采选：女装销售经验者优先！ 以上城市两家店铺以上可优先选择就近入职！",
+    "companyName" : "福建柏悦品牌运营管理有限公司",
+    "companySize" : "NULL",
+    "companyType" : "NULL",
+    "duplicatekey" : "00051163c80db00469ba6d18691aeed0466332e458ef22055d67f15b5f0b9762",
+    "educationMessage" : "高中",
+    "educationMessageStandard" : "高中及以下",
+    "fringeBenefits" : "加班补助",
+    "industryItem" : "NULL",
+    "industrySplit" : "店长/卖场经理",
+    "positionMessage" : "工作时间：按商场实际工作时间为准，有意向者可电话咨询！！！ 工作地点：普宁星河时代广场 优先采选：女装销售经验者优先！ 岗位职责： 1、全面主持店面的管理工作，配合总部的各项营销策略的实施； 2、执行总部下达的各项任务； 3、做好门店各个部门的分工管理工作； 4、监督商品的要货、上货、补货，做好进货验收、商品陈列、商品质量和服务质量管理等有关作业； 5、监督门店商品损耗管理，把握商品损耗尺度； 6、掌握门店各种设备的维护保养知识； 7、监督门店内外的清洁卫生，负责保卫、防火等作业管理； 8、妥善处理顾客投诉和服务工作中所发生的各种矛盾； 9、负责对员工的培训教育。 任职资格： 1、大专及以上学历,专业不限； 2、3年以上零售业管理工作经验，具有较强的店务管理经验； 3、精通团队管理、客户管理、商品管理、陈列管理，物流配送，熟悉店务的各项流程的制定、执行； 4、较强的团队管理能力和沟通能力，能够承受较大的工作强度和工作压力； 5、年龄35岁以下。 工作时间：按实际商场工作时间为准！ 工作地址：有意者可根据居住地区选择工作地址 武汉市硚口区古田二路凯德西城一楼衣全球 合肥庐阳长江中路98号合肥银泰中心 普宁市流沙北街道环市北路普宁广场时代中心 湖南省长沙市雨花区沙湾路长沙保利广场 湖南省衡阳市蒸湘区华新街道解放大道42号连卡福商业广场 南宁市民主路20号南宁百货文化宫店 江西省南昌市西湖区朝阳万达1#WOR店1078",
+    "positionName" : "3k至5k诚聘店长",
+    "publishedDate" : "NULL",
+    "salaryPrice" : "3000-5000元/月",
+    "salaryPriceStandard" : {
+        "high" : 5000.0,
+        "avg" : 4000.0,
+        "low" : 3000.0
+    },
+    "source" : "58同城招聘",
+    "workAddress" : "普宁",
+    "workAddressStandard" : {
+        "province" : "广东省",
+        "city" : "揭阳市",
+        "cityTier" : "三线城市",
+        "region" : "普宁市"
+    },
+    "workBackground" : "3-5年",
+    "workBackgroundStandard" : "经验3至5年",
+    "workType" : "NULL",
+    "workTypeStandard" : "全职"
+}
+
+,
+{
+    "_id" : "002f509aba231f77150f0c7ffb2c268d5333ed09d64f1fc65017b2acbc980c79",
+    "companyAddress" : "NULL",
+    "companyAddressStandard" : {
+        "province" : "广东省",
+        "city" : "揭阳市",
+        "region" : "榕城区"
+    },
+    "companyMessage" : "广州市茂竹鑫贸易有限公司是中华老字号【回力】品牌系列产品的“广东省总经销商”，集批发和零售业务，从线下实体最早的批发业务广州大新路批发市场到广州新华南鞋城再到广州茂竹鑫公司，持续经营30年。公司已在广东省内拥有批发客户及专卖店客户超过1500个，公司每年营业额内销超3亿，现已成为回力品牌在南方的重要合作伙伴 。 公司自有工厂【广东创力塑胶实业有限公司】，是回力品牌指定生产商，员工1000多人，拥有11条流水线，年生产能力2000万双，揭阳市标杆企业，每届政府领导莅临公司参观指导工作，是一家集专业设计、生产、销售于一体的现代化新型企业。",
+    "companyName" : "广州市茂竹鑫贸易有限公司",
+    "companySize" : "NULL",
+    "companyType" : "NULL",
+    "duplicatekey" : "002f509aba231f77150f0c7ffb2c268d5333ed09d64f1fc65017b2acbc980c79",
+    "educationMessage" : "不限",
+    "educationMessageStandard" : "不限",
+    "fringeBenefits" : "包吃 包住",
+    "industryItem" : "NULL",
+    "industrySplit" : "淘宝客服",
+    "positionMessage" : "工作内容： 1、负责通过旺旺接待客户,可以独挡一面以真诚的服务态度和销售技巧解答疑问,促成交易； 2、负责售前支持，产品介绍,引导客户达成交易； 3、负责售中跟踪，客户订单生产、发货、物流状态跟进;对发出的货物进行有效跟踪处理； 4、负责售后服务，客户反馈问题处理,中差评、退换货、投诉处理等； 职位要求： 1、*,18-30 岁,打字速度快,打字速度 60 个字/分以上； 2、有一年以上淘宝网络销售经验，熟悉天猫规则，头脑清晰,思维敏捷,可同时与多人以上进行网上交流,待人热情,有良好的服务意识,工作耐心细致； 3、有良好的人际沟通能力和亲和力性格开朗,性格温和,脾气好,能够应对 和 工作时间： 1、工作时间：早班08:30-18:00 晚班14:00-23:00 2、月休4天",
+    "positionName" : "天猫客服",
+    "publishedDate" : "NULL",
+    "salaryPrice" : "2000-4000元/月",
+    "salaryPriceStandard" : {
+        "high" : 4000.0,
+        "avg" : 3000.0,
+        "low" : 2000.0
+    },
+    "source" : "58同城招聘",
+    "workAddress" : "榕城区",
+    "workAddressStandard" : {
+        "province" : "广东省",
+        "city" : "揭阳市",
+        "cityTier" : "三线城市",
+        "region" : "榕城区"
+    },
+    "workBackground" : "不限",
+    "workBackgroundStandard" : "经验不限",
+    "workType" : "NULL",
+    "workTypeStandard" : "全职"
+}
+
+,
+{
+    "_id" : "000df287f587f814c3b1cb719f5cf670d392c1bc695883760838ae6882f43762",
+    "companyAddress" : "NULL",
+    "companyAddressStandard" : {
+        "province" : "辽宁省",
+        "city" : "大连市",
+        "region" : "中山区"
+    },
+    "companyMessage" : "深圳市乐有家控股集团（原名为深圳市家家顺控股集团，下述简称“集团”）成立于2008年，业务涵盖二手房买卖、房屋租赁、项目策划、新房代理、电子商务、资产管理、金融服务等领域，致力于打造一个线上线下一体化的E2E智能生态系统，为客户提供放心、省心、顺心的服务和解决方案。 集团旗下拥有“乐有家”、“顺联担保”、“万顺通资产”、“家家顺网络科技”等优秀品牌，数百家子公司、数千家分公司（连锁直营网点）遍及全国主要大中城市，各项业务高速发展，在行业低迷时依然稳健前行、健康成长，已发展成“以房地产经纪为龙头、金融和互联网为两翼”的大型企业集团。 集团秉承“真诚正义，先人后己”的核心价值观，遵从扁平化、简单化、标准化、制度化、信息化、智能化的“六化”管理理念，坚持“为您，真诚到永远”的服务理念，力倡“业务一体化”新思维，创新“二三级联动销售”新模式，得到了社会各界的高度评价，曾获“值得信任的地产经纪品牌”、“全国优秀房地产经纪机构”、“中国十大品牌中介机构”等多项殊荣。 集团视人才为最宝贵的财富，搭建了以员工发展为核心的培训体系，打造了全新线上线下一体化的“乐有家学院”；摒弃华而不实，反对铺张浪费，崇尚“健康、舒适、便利”的风格，推出了“运营低成本，员工高收入”的运营模式；秉承“员工富公司富，员工强公司强”的薪酬理念，推行了经纪人高分成制、管理人员利润分红制等薪酬福利政策，实施了『腾飞•聚赢』、『梦圆乐有家』人才工程等一系列独特的聚贤育才措施，集中构建富有行业竞争力的创业平台，助从业人员实现自我价值，携手共创辉煌。 集团在“立足大深圳，扎根珠三角，密布全中国”的战略规划下，于2017年启动“百城万店”计划，将陆续进驻全国所有城市，实现“有家的地方就有乐有家”的宏伟愿景！",
+    "companyName" : "中山市乐有家房地产经纪有限公…",
+    "companySize" : "NULL",
+    "companyType" : "NULL",
+    "duplicatekey" : "000df287f587f814c3b1cb719f5cf670d392c1bc695883760838ae6882f43762",
+    "educationMessage" : "不限",
+    "educationMessageStandard" : "不限",
+    "fringeBenefits" : "NULL",
+    "industryItem" : "NULL",
+    "industrySplit" : "房产经纪人",
+    "positionMessage" : "职位描述 销售的定位： ------销售，绝不是降低身份去取悦客户，而是像朋友一样给予合理的建议。你刚好需要，我刚好专业！（乔.吉拉德） 没试过，你怎么知道自己不行！ 一．岗位职责: 1.挖掘客户； 2.熟练掌握区域楼盘详细情况； 3.接待客户，提供业务咨询，带客看房、跟进磋商、谈判并协助签约； 4.认同公司文化，遵守公司制度，服从公司管理，接受上级工作指导与安排； 任职要求: 1.年满十八周岁 2.勤奋且心理抗压较好者优先 3.拥有良好的执行力 4.拥有良好的团队精神和职业操守 5.拥有良好的学习能力以及积极上进的思想。 二、薪资待遇： 1、中山同行里最优的薪酬体系：底薪、真服务绩效奖（600-1200）、业绩分成 行业最高底薪：2500-6700（高中及以下2500元，统招大专2800元，统招本科3300元，考核优秀可晋级更高薪级） 行业最高分成：高任务分成（50%～80%）； C、行业最高福利：仁杰奖、社保、带薪假、qq靓号、、 D、师傅一对一带教，手把手教导，让你不迷茫地度过见习期，快速成长，快速开单。",
+    "positionName" : "百万年薪等你来",
+    "publishedDate" : "NULL",
+    "salaryPrice" : "5000-8000元/月",
+    "salaryPriceStandard" : {
+        "high" : 8000.0,
+        "avg" : 6500.0,
+        "low" : 5000.0
+    },
+    "source" : "58同城招聘",
+    "workAddress" : "东凤",
+    "workAddressStandard" : {
+        "province" : "云南省",
+        "city" : "大理白族自治州",
+        "cityTier" : "三线城市",
+        "region" : "剑川县"
+    },
+    "workBackground" : "不限",
+    "workBackgroundStandard" : "经验不限",
+    "workType" : "NULL",
+    "workTypeStandard" : "全职"
+}
+
+,
+{
+    "_id" : "00025a166b1da845d98b33f9ba548f1888ad71c4571a5a7514538c48dc4533c5",
+    "companyAddress" : "NULL",
+    "companyAddressStandard" : {
+        "province" : "广西壮族自治区",
+        "city" : "南宁市",
+        "region" : "江南区"
+    },
+    "companyMessage" : "业务员电车自配，最好三轮车，工资3000",
+    "companyName" : "广西南宁博克斯洛家居用品有限…",
+    "companySize" : "NULL",
+    "companyType" : "NULL",
+    "duplicatekey" : "00025a166b1da845d98b33f9ba548f1888ad71c4571a5a7514538c48dc4533c5",
+    "educationMessage" : "不限",
+    "educationMessageStandard" : "不限",
+    "fringeBenefits" : "NULL",
+    "industryItem" : "{'firstItem': '', 'secondItem': '', 'thirdItem': ''}",
+    "industrySplit" : "售前/售后服务",
+    "industryStandard" : {
+        "level1" : "其他",
+        "level2" : "其他"
+    },
+    "positionMessage" : "工作内容：橱、衣柜跟单（跟单-下单-排单） 职位要求：1、较强的责任心和敬业精神，良好的组织协调能力及沟通能力，较强的分析、解决问题能力； 2、熟练使用办公软件和办公自动化设备。 工作时间：上班时间：早上9:00到下午6:00，每月休息4天。",
+    "positionName" : "橱柜衣柜跟单员",
+    "publishedDate" : "NULL",
+    "salaryPrice" : "2000-3000元/月",
+    "salaryPriceStandard" : {
+        "high" : 3000.0,
+        "avg" : 2500.0,
+        "low" : 2000.0
+    },
+    "source" : "58同城招聘",
+    "workAddress" : "建政",
+    "workAddressStandard" : {
+        "province" : "山西省",
+        "city" : "临汾市",
+        "cityTier" : "三线城市",
+        "region" : "翼城县"
+    },
+    "workBackground" : "不限",
+    "workBackgroundStandard" : "经验不限",
+    "workType" : "NULL",
+    "workTypeStandard" : "全职"
+}
+,
+{
+    "_id" : "000f6fda9324f23eb7a07ce46b1054f46fe12e6ee7de5506349c19eaf78d0eda",
+    "companyAddress" : "NULL",
+    "companyAddressStandard" : {
+        "province" : "广西壮族自治区",
+        "city" : "南宁市",
+        "region" : "江南区"
+    },
+    "companyMessage" : "新的一年，你也该面朝大海、春暖花开了。春风十里，不如有你。 如果你喜欢文字创作、有深厚的阅读积累、有志于从事优质内容的互联网传播、具备优异的审美，你很可能在下方找到一份适合自己的高薪工作。 作为创业公司，在这里，你有足够的成长空间，管理层扁平，你有最核心的锻炼机会。 对了，我们不乱烧钱，公司有很稳定的营收和利润，这是最重要的前提。 我们提供足有竞争力的薪资待遇。 一句话：没有太多的Politics.. Performance 决定一切。 你敢写爆文，我们就敢发高薪~",
+    "companyName" : "广西狮羽文化传播有限公司",
+    "companySize" : "NULL",
+    "companyType" : "NULL",
+    "duplicatekey" : "000f6fda9324f23eb7a07ce46b1054f46fe12e6ee7de5506349c19eaf78d0eda",
+    "educationMessage" : "不限",
+    "educationMessageStandard" : "不限",
+    "fringeBenefits" : "五险一金 周末双休 加班补助",
+    "industryItem" : "{'firstItem': '', 'secondItem': '', 'thirdItem': ''}",
+    "industrySplit" : "影视/后期制作",
+    "industryStandard" : {
+        "level1" : "其他",
+        "level2" : "其他"
+    },
+    "positionMessage" : "工作职责： 负责公司视频项目的后期特效制作，配合编导完成项目，偶尔需要出差。 岗位要求： 1、相关专业、对影视行业有强烈兴趣； 2、有良好的沟通能力和团队合作精神； 3、思维活跃，创新能力强，有想法； 4、对影视、宣传片、专题片、纪录片、广告片、微电影等编辑工作有一定认知； 5、至少熟悉一款专业剪辑软件。（例如：PR、Finalcut等），有电影及电视剧剪辑经验者优先； 6、并具备较好的审美情趣和创新能力；对音乐、画面色彩有较好的理解。 岗位职责： 1、协助拍摄现场视频采集、编辑及传输； 2、负责相关产品摄影的剪接和图象处理； 4、完成产品相关宣传视频制作； 5.会后期包装及特效制作优先考虑 · 面试请带上个人简历及作（重点加粗） 请直接投递简历，我们尊重、关注每一份简历。勿留言",
+    "positionName" : "后期剪辑",
+    "publishedDate" : "NULL",
+    "salaryPrice" : "面议",
+    "salaryPriceStandard" : {
+        "high" : 0.0,
+        "avg" : 0.0,
+        "low" : 0.0
+    },
+    "source" : "58同城招聘",
+    "workAddress" : "南湖广场",
+    "workAddressStandard" : {
+        "province" : "吉林省",
+        "city" : "长春市",
+        "cityTier" : "三线城市",
+        "region" : "朝阳区"
+    },
+    "workBackground" : "不限",
+    "workBackgroundStandard" : "经验不限",
+    "workType" : "NULL",
+    "workTypeStandard" : "全职"
+}
+
+,
+{
+    "_id" : "001b2d39a84d399578e2fbc607d2366bfce04459835645660a7dd4e908ed0e83",
+    "companyAddress" : "NULL",
+    "companyAddressStandard" : {
+        "province" : "广西壮族自治区",
+        "city" : "玉林市",
+        "region" : "玉州区"
+    },
+    "companyMessage" : "榄菊公司发源于中山，是跨行业、跨区域发展的大型企业集团，下辖中山榄菊日化实业有限公司、中山雅黛日用化工有限公司、中山榄菊销售有限公司、重庆榄菊日化实业有限公司、江西榄菊日化实业有限公司、安徽榄菊日用制品有限公司等企业。集团现有员工3000多人，主要产品有榄菊牌系列家庭卫生杀虫制品，榄菊牌家居护理及个人清洁用品，以及新开发的康涤牌家用洗涤用品。中山榄菊日化实业有限公司是集团的核心企业，创建于1982年，是国内最早生产电蚊香的厂家，历经三十多年的发展，已成长为我国规模最大的家庭卫生杀虫制品专业生产企业，连续八",
+    "companyName" : "玉林市玉州区宏通百货经营部",
+    "companySize" : "NULL",
+    "companyType" : "NULL",
+    "duplicatekey" : "001b2d39a84d399578e2fbc607d2366bfce04459835645660a7dd4e908ed0e83",
+    "educationMessage" : "不限",
+    "educationMessageStandard" : "不限",
+    "fringeBenefits" : "话补 交通补助 饭补",
+    "industryItem" : "{'firstItem': '', 'secondItem': '', 'thirdItem': ''}",
+    "industrySplit" : "销售代表",
+    "industryStandard" : {
+        "level1" : "其他",
+        "level2" : "其他"
+    },
+    "positionMessage" : "表达能力强,具有较强沟通能力及交际技巧,有亲和力,有销售经验者优先",
+    "positionName" : "销售代表",
+    "publishedDate" : "NULL",
+    "salaryPrice" : "2000-3000元/月",
+    "salaryPriceStandard" : {
+        "high" : 3000.0,
+        "avg" : 2500.0,
+        "low" : 2000.0
+    },
+    "source" : "58同城招聘",
+    "workAddress" : "玉林周边",
+    "workAddressStandard" : {
+        "province" : "广西壮族自治区",
+        "city" : "玉林市",
+        "cityTier" : "三线城市",
+        "region" : "玉州区"
+    },
+    "workBackground" : "不限",
+    "workBackgroundStandard" : "经验不限",
+    "workType" : "NULL",
+    "workTypeStandard" : "全职"
+}]
