@@ -137,6 +137,6 @@ RedisGraph现阶段还处于开发阶段,还有很多功能未来得及实现且
 ## 6. 文档
 [python 客户端](https://github.com/RedisGraph/redisgraph-py)
 
-[查询文档示例]()
+[查询文档示例](https://github.com/Liangchengdeye/redisGraphApp/blob/master/data/redisGraph%E5%88%86%E4%BA%AB.pptx)
 
 pip install redisgraph
